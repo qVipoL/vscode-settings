@@ -1,0 +1,90 @@
+{
+  // WINDSURF
+  "windsurf.marketplaceExtensionGalleryServiceURL": "https://marketplace.visualstudio.com/_apis/public/gallery",
+  "windsurf.marketplaceGalleryItemURL": "https://marketplace.visualstudio.com/items",
+
+  // OTHER
+  "terminal.integrated.env.osx": {},
+  "console-ninja.featureSet": "Community",
+
+  // GENERAL
+  "editor.accessibilitySupport": "off",
+  "editor.formatOnSave": true,
+  "editor.smoothScrolling": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "window.zoomLevel": 1,
+  "editor.stickyScroll.scrollWithEditor": false,
+  "workbench.tree.enableStickyScroll": false,
+
+  // VISUAL
+  "editor.renderControlCharacters": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.glyphMargin": true,
+  "window.density.editorTabHeight": "compact",
+  "window.commandCenter": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.layoutControl.enabled": true,
+  "explorer.compactFolders": false,
+  "workbench.iconTheme": "catppuccin-perfect-dark",
+  "workbench.colorTheme": "Darcula",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "entity.name.type.class",
+          "keyword",
+          "constant",
+          "storage.modifier",
+          "storage.type.class.js"
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": [
+          "invalid",
+          "keyword.operator",
+          "constant.numeric.css",
+          "keyword.other.unix.px.css",
+          "constant.numeric.decimal.js",
+          "constant.numeric.json"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+
+  // CURSOR
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "line-thin",
+  "editor.cursorSmoothCaretAnimation": "explicit",
+
+  // FONT
+  "editor.fontFamily": "PragmataPro, JetBrains Mono, Monaco, Menlo, 'Courier New', monospace",
+  "editor.fontSize": 18,
+  "editor.fontWeight": "400",
+  "editor.fontLigatures": true,
+
+  // TERMINAL
+  "terminal.integrated.cursorStyle": "line",
+
+  // GIT
+  "git.autofetch": true,
+  "window.newWindowProfile": "Default",
+  "git.confirmSync": false,
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "windsurf.autocompleteSpeed": "fast",
+  "windsurf.autoExecutionPolicy": "off",
+  "windsurf.explainAndFixInCurrentConversation": true,
+  "windsurf.enableAutocomplete": true,
+  "windsurf.chatFontSize": "default",
+  "windsurf.rememberLastModelSelection": true,
+  "windsurf.openRecentConversation": true
+}
