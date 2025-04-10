@@ -1,0 +1,30 @@
+- Auto Rename Tag
+- Backticks
+- Code Spell Checker
+- Color the Tag Name
+- Colorize
+- Darcula Theme
+- Docker
+- Docker DX
+- DotENV
+- ESLint
+- Font Switcher
+- Git Blame
+- Git History
+- GitLens
+- IntelliCode
+- Ionic
+- Multi Cursor Preserve
+- Path autocomplete
+- npm intellisense
+- Path Intellisense
+- Prettier
+- Pretty Typescript Errors
+- Prisma
+- Quokka
+- React Snippets
+- Sonar Qube
+- Tailwind CSS IntelliSense
+- TODO Highlight
+- VSCode Color Picker
+- TypeScript Hero
