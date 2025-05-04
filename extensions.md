@@ -28,3 +28,4 @@
 - TODO Highlight
 - VSCode Color Picker
 - TypeScript Hero
+- Catppuccin for VSCode
